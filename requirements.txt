@@ -1,0 +1,7 @@
+Flask
+pandas
+geopandas
+plotly
+folium
+sqlalchemy
+psycopg2-binary
